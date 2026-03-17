@@ -1,0 +1,11 @@
+{
+  "feature_names": [
+    "pressure_peak_mmHg",
+    "pulse_frequency_hz",
+    "wall_stiffness_mpa",
+    "is_bav",
+    "aortic_diameter_mm"
+  ],
+  "trained_at": "2025-11-15T17:22:54.969075",
+  "model_version": "1.0"
+}
